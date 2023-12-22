@@ -15,7 +15,7 @@ This Github repository contains scripts and plots related to the forecasting rec
 *PLOT* folder:
 
  - `agg_mat_plot.R`: generates figures for the linear combination matrix.
- - `mcb.R`: This folder contains figures related to the Multiple Comparison with the Best Nemenyii test.
+ - `mcb.R`: generates figures related to the Multiple Comparison with the Best Nemenyii test.
  - `results_point.R`: generates figures for point forecast accuracy indexes.
  - `results_boot.R`: generates figures for non-parametric joint bootstrap probabilistic forecast accuracy indexes.
  - `results_gauss.R`: generates figures for Gaussian probabilistic forecast accuracy indexes.
